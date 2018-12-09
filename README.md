@@ -92,7 +92,7 @@ mailing list with the instructor’s permission to get evaluation
 done by human volunteers. The threshold can be set to any
 fixed value, say 50 percent of volunteers saying that the music
 sounds human composed.
-VII. REFERENCES
+
 As mentioned in the proposal, this project is based
 on work already done by Stanford University researchers
 AllenHuang and RaymondWu - Deep learning for music
